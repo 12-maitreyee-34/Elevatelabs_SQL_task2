@@ -1,2 +1,2 @@
-# ElevateLabs_SQL_task2
-DML operations and Null handling using Hospital management system
+This project demonstrates the hospital database system developed with SQL and tested on DB Fiddle. It has detailed DML operations like INSERT for table population and UPDATE to update particular records. Null values were managed successfully by utilizing the DEFAULT keyword for defining table columns (e.g., notes in Medical_Record) and by having conditional UPDATE queries for filling up missing data with sensible outcomes.
+
